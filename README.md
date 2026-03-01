@@ -1,6 +1,7 @@
 # Memory Match Game
 
 A Memory Match Game (Concentration) built with React, TypeScript, and modern design patterns.
+In this game, the player flips two cards at a time to find a matching pair. The game ends when all pairs are matched.
 
 ## Features
 
